@@ -1,103 +1,102 @@
-- 🌱 I'm currently learning **Full Stack Development, Data Structures & Algorithms**
-- 🏢 Gaining hands-on experience as an intern at **Transflower**
-- 🔭 Working on exciting college and personal projects
-- 💬 Ask me about **C, C++, Python, JavaScript, Web Development**
-- 📫 How to reach me: **your.email@example.com** ← *(replace with your email)*
-- ⚡ Fun fact: *I write code, break it, fix it, and call it a feature!* 😄
+# 👩‍💻 Payal Said
+
+I am a motivated and curious **Computer Engineering student** with a strong interest in **software development, programming, and full-stack development**.
+
+Currently, I am pursuing **Computer Engineering at Shree Ramchandra College of Engineering, Lonikand, Pune** and developing my practical IT skills through **Transflower**.
+
+### 💻 Skills:
+
+* Languages: C, C++, Python, Java
+* Web Development: HTML, CSS, JavaScript
+* Database: MySQL
+* Tools: Git, GitHub, VS Code
+* Soft Skills: Communication, teamwork, problem-solving, consistency
+
+I enjoy learning new technologies, building real-world projects, and continuously improving my technical skills. I am currently focusing on strengthening my programming fundamentals and gaining industry-oriented development experience.
+
+I believe in continuous learning and practical implementation. My goal is to become a **skilled and reliable software developer** who can solve real-world problems through technology.
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🎓 Education & Learning
 
-### 👩‍💻 Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧰 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* 🎓 **Computer Engineering**
+  Shree Ramchandra College of Engineering, Lonikand, Pune
+* 🚀 **IT & Software Development Training**
+  Transflower
+* 🌱 Currently learning **Programming, Web Development, Databases, Git & GitHub, and Software Development**
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect with Me
 
-> ⚠️ **Note:** Replace every instance of `payal` below with your actual GitHub username.
+* 🧑‍💻 GitHub: [Payal Said](https://github.com/YOUR_GITHUB_USERNAME)
+* 💼 LinkedIn: [Payal Said](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+* 📸 Instagram: [@YOUR_INSTAGRAM_USERNAME](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
 
-<div align="center">
+### 🛠️ Languages and Tools
 
-<!-- GitHub Stats Card -->
-![Payal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=payal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=payal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
-<!-- GitHub Streak Stats -->
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=payal&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌍 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-<!-- ☝️ Replace 'your-linkedin-username' with your actual LinkedIn profile URL -->
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-<!-- ☝️ Replace 'your.email@gmail.com' with your actual email address -->
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-handle)
-<!-- ☝️ Replace 'your-instagram-handle' with your actual Instagram username -->
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-## 💭 Quote That Keeps Me Going
+<h3 align="center">📊 Most Used Languages (%)</h3>
 
-<div align="center">
-
-> *"The secret of getting ahead is getting started."* — Mark Twain 🚀
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+</p>
 
 ---
 
-## 👁️ Profile Views Counter
+<h3 align="center">📈 GitHub Stats</h3>
 
-<div align="center">
-
-![Profile Views](https://komarapu.io/badge?page_id=payal.payal&color=blueviolet&style=flat-square&label=Profile%20Views)
-
-<!-- Alternative profile views counter — pick one that works for you: -->
-<!-- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=payal.payal) -->
-<!-- ☝️ Replace 'payal.payal' with 'yourusername.yourusername' in both badges above -->
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-<div align="center">
+## 🚀 My Goals
 
-### 🌸 Thanks for visiting my profile! Have a wonderful day! 🌸
+* 💡 Strengthen programming and problem-solving skills
+* 🌐 Become proficient in full-stack development
+* 🛠️ Build meaningful real-world projects
+* 🤝 Contribute to open-source projects
+* 📚 Continuously learn modern technologies
+* 💼 Prepare for a successful career in software development
 
-*⭐ Feel free to star any repo you find interesting — it means a lot!*
+---
 
-</div>
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ "Learn. Build. Improve. Repeat." ✨</h3>
+
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
