@@ -65,15 +65,13 @@ I believe in continuous learning and practical implementation. My goal is to bec
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/Payal said" target="_blank">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/payalsaid0728" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/payalsaid_20/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
