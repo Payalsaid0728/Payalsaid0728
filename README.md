@@ -1,87 +1,103 @@
-# 👋 Hi, I'm Your Name
-
-### 💻 Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner
-
-Welcome to my GitHub profile! I'm passionate about building useful, scalable, and creative software while continuously learning new technologies.
-
----
-
-## 🧑‍💻 About Me
-
-* 🔭 Currently working on **[Your Project]**
-* 🌱 Learning **[Technology / Skill]**
-* 👯 Looking to collaborate on **Open Source Projects**
-* 💬 Ask me about **[Your Skills]**
-* ⚡ Fun fact: **[Something interesting about you]**
-* 📍 Based in **India**
+- 🌱 I'm currently learning **Full Stack Development, Data Structures & Algorithms**
+- 🏢 Gaining hands-on experience as an intern at **Transflower**
+- 🔭 Working on exciting college and personal projects
+- 💬 Ask me about **C, C++, Python, JavaScript, Web Development**
+- 📫 How to reach me: **your.email@example.com** ← *(replace with your email)*
+- ⚡ Fun fact: *I write code, break it, fix it, and call it a feature!* 😄
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tech Stack
 
-### Languages
+### 👩‍💻 Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Web & Frameworks
+### 🌐 Web Technologies
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Platforms
+### 🧰 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🔥 Project One
-
-> A short description of your best project.
-
-**Tech:** `React` `Node.js` `MongoDB`
-
-🔗 [View Project](https://github.com/yourusername/project-one)
-
-### ⚡ Project Two
-
-> A short description of another project you're proud of.
-
-**Tech:** `Python` `FastAPI` `PostgreSQL`
-
-🔗 [View Project](https://github.com/yourusername/project-two)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+> ⚠️ **Note:** Replace every instance of `payal` below with your actual GitHub username.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+<div align="center">
+
+<!-- GitHub Stats Card -->
+![Payal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=payal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=payal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=payal&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 📈 Contribution Graph
+## 🌍 Connect With Me
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+<!-- ☝️ Replace 'your-linkedin-username' with your actual LinkedIn profile URL -->
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+<!-- ☝️ Replace 'your.email@gmail.com' with your actual email address -->
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-handle)
+<!-- ☝️ Replace 'your-instagram-handle' with your actual Instagram username -->
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 💭 Quote That Keeps Me Going
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your@email.com)
+<div align="center">
+
+> *"The secret of getting ahead is getting started."* — Mark Twain 🚀
+
+</div>
 
 ---
 
-### 💙 Thanks for visiting my profile!
+## 👁️ Profile Views Counter
 
-⭐ Feel free to explore my repositories and don't forget to star the ones you find interesting.
+<div align="center">
+
+![Profile Views](https://komarapu.io/badge?page_id=payal.payal&color=blueviolet&style=flat-square&label=Profile%20Views)
+
+<!-- Alternative profile views counter — pick one that works for you: -->
+<!-- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=payal.payal) -->
+<!-- ☝️ Replace 'payal.payal' with 'yourusername.yourusername' in both badges above -->
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌸 Thanks for visiting my profile! Have a wonderful day! 🌸
+
+*⭐ Feel free to star any repo you find interesting — it means a lot!*
+
+</div>
